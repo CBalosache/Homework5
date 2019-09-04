@@ -74,7 +74,7 @@ namespace Homework5
             {
                 numbers2.Push((int)Math.Pow(i, 3));
             }
-            for (int i = 1; i <= 10; i++)
+            for (int i = 100; i <= 91; i--)
             {
                 numbers2.Pop();
             }
